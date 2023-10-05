@@ -1,0 +1,178 @@
+
+
+
+.first-page {
+   
+    padding: 30px;
+    background-color: #000000;
+    
+}
+.login-button {
+    background-color: #FF7665;
+    color: white;
+    font-size: 10px;
+    width: 15%;
+    border-style: none;
+    border-width: 0px;
+}
+.parafirst {
+    color: #555;
+}
+.firstimg {
+   height: 400px;
+   width: 50%;
+   border-radius: 16px;
+}
+.card-container-first {
+    
+    height: 400px;
+    border-radius: 16px;
+    background-color: #f2f2f2;
+}
+.headfirst {
+    font-weight: 700;
+}
+.playfirst-img {
+    border-radius: 50%;
+    margin-top: 5px;
+}
+.firstbutton2 {
+    background-color:  #cc0000;
+    border-style: none;
+    border-width: 0px;
+}
+.hotaltypecard {
+    background-color:  #f2f2f2;
+    border-top-right-radius: 18px;
+    border-top-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+}
+.hotelfirst1 {
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+}
+.dividerfirst {
+    color:  #c2c2d6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.login-button1 {
+    background-color: #FF7665;
+    color: white;
+    font-size: 10px;
+   
+    border-style: none;
+    border-width: 0px;
+
+}
+
+.bgContainer {
+    padding: 30px;
+    background-color: #000000;
+    color: white;
+}
+.secondBox {
+    border-radius: 4px;
+    background-color: #f2f2f2;
+    height: 180px;
+    padding: 35px;
+    width: 250px;
+   
+}
+
+.imgIconsecond {
+    height: 50%;
+    
+}
+.parasecond {
+    font-size: 10px;
+}
+.card-container-second {
+    background-color: #f2f2f2;
+    border-radius: 16px;
+    height: 400px;
+   
+}    
+.DOH {
+    width: 50%;
+    height: 400px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bgContainer3 {
+    padding: 30px;
+    background-color: #000000;
+    color: white;
+}
+.spanQue {
+    color: #FF7665;
+}
+
+.bgContainer4 {
+    background-color: #FF7665;
+    padding: 30px;
+    color: white;
+}
